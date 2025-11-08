@@ -24,17 +24,17 @@ This project demonstrates CRUD-based gallery and commission management, built fo
 ---
 
 ## Table of Contents
-- Overview  
-- Project Features (CRUD)  
-- Key Components  
-- Products & Services  
-- Technology  
-- About  
+- [Overview](#overview)
+- [Project Features](#project-features)
+- [Key Components](#key-components)
+- [Products & Services](#products--services)
+- [Technology](#technology)
+- [About](#about)
 
 ---
 
 ## Overview  
-**Edo Ember Gallery** is an art and design studio that bridges tradition and innovation — a creative hub where classic artistry meets modern digital expression.  
+**Edo Ember Gallery** is an art and design studio that bridges tradition and innovation—a creative hub where classic artistry meets modern digital expression.  
 The platform showcases **traditional and modern artworks, installations, and multimedia pieces**, and provides artists and clients with a space to collaborate, commission, and share their work.
 
 **Purpose:**  
