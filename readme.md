@@ -1,11 +1,15 @@
+<div align="center">
+
 <img src="https://i.pinimg.com/originals/8c/42/43/8c4243960da81dba835adc6bbbcfda27.gif" alt="Litten Group" width="130" height="100">
 
-# Edo Ember Gallery
+<h1>Edo Ember Gallery</h1>
 
-**Bringing classic brushwork to the digital age.**
+<p><strong>Bringing classic brushwork to the digital age.</strong></p>
 
-A web-based art and design studio platform that showcases both traditional and modern artworks, multimedia installations, and creative collaborations.  
-This project demonstrates CRUD-based gallery and commission management, built for artists, clients, and curators.
+<p>A web-based art and design studio platform that showcases both traditional and modern artworks, multimedia installations, and creative collaborations.<br>
+This project demonstrates CRUD-based gallery and commission management, built for artists, clients, and curators.</p>
+
+</div>
 
 **Group:** Litten  
 
